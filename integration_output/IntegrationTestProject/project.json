@@ -1,0 +1,22 @@
+{
+    "id": "054d1e04-7d7a-405d-8799-758f58568a32",
+    "name": "IntegrationTestProject",
+    "creation_date": "2026-08-03T08:34:20.732202",
+    "last_modified": "2026-08-03T08:34:20.732376",
+    "version": "1.0.0",
+    "asset_paths": {
+        "images": [],
+        "png": [],
+        "audio": [],
+        "music": [],
+        "subtitle": []
+    },
+    "export_settings": {
+        "resolution": "1920x1080",
+        "fps": 30,
+        "format": "mp4"
+    },
+    "timeline_settings": {
+        "duration": 0
+    }
+}

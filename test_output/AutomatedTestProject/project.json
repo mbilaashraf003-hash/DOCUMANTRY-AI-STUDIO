@@ -1,0 +1,22 @@
+{
+    "id": "9b95ff6f-1044-463a-9d86-dab1bc1215d6",
+    "name": "AutomatedTestProject",
+    "creation_date": "2026-07-29T20:39:06.440393",
+    "last_modified": "2026-07-29T20:39:06.440612",
+    "version": "1.0.0",
+    "asset_paths": {
+        "images": [],
+        "png": [],
+        "audio": [],
+        "music": [],
+        "subtitle": []
+    },
+    "export_settings": {
+        "resolution": "1920x1080",
+        "fps": 30,
+        "format": "mp4"
+    },
+    "timeline_settings": {
+        "duration": 0
+    }
+}
