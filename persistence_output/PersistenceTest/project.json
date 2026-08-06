@@ -1,0 +1,29 @@
+{
+    "id": "344cda1e-aa5a-4a80-bf03-542299eb96a6",
+    "name": "PersistenceTest",
+    "creation_date": "2026-08-03T08:37:12.157005",
+    "last_modified": "2026-08-03T08:37:12.299577",
+    "version": "1.0.0",
+    "asset_paths": {
+        "images": [
+            "Images\\dummy_4.png",
+            "Images\\dummy_3.png",
+            "Images\\dummy_2.png",
+            "Images\\dummy_1.png",
+            "Images\\dummy_0.png"
+        ],
+        "png": [],
+        "audio": [],
+        "music": [],
+        "subtitle": [],
+        "video": []
+    },
+    "export_settings": {
+        "resolution": "1920x1080",
+        "fps": 30,
+        "format": "mp4"
+    },
+    "timeline_settings": {
+        "duration": 0
+    }
+}
